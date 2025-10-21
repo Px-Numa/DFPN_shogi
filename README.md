@@ -1,0 +1,2 @@
+# DFPN_shogi
+DFPNforShogi
